@@ -1,0 +1,1 @@
+export const ticker = "ticker";
